@@ -37,7 +37,7 @@ const questions = [
 ]
 
 function writeToFile(fileName, data) {
-    return fs.writeFile((__dirname +'/examples/' + fileName), data, (err) =>
+    return fs.writeFile((__dirname + '/examples/' + fileName), data, (err) =>
     err ? console.log(err) : console.log("Generated logo.svg"));
 };
 
