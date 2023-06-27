@@ -4,7 +4,7 @@ const fs = require('fs');
 // custom inquirer package will prevent user from entering more than 3 characters
 const maxLength = require('inquirer-maxlength-input-prompt');
 
-const generateSVG = require('./lib/shapes');
+const { generateSVG } = require('./lib/shapes');
 
 // array of questions prompting user for SVG specifications
 const questions = [
