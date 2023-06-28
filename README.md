@@ -31,7 +31,7 @@ From the current directory, navigate to "examples" folder to find the newly gene
 This is an educational project. No contributions are being accepted.
 
 ## Tests
-A test file is provided to verify data is being modified in the "shape" class constructors correctly. The test passes static parameters to each "shape" extended class and verifies the class outputs the new parameters  by comparing it to a static string of SVG code containing matching paramters.
+A test file is provided to verify data is being modified in the "shape" class constructors correctly. The test passes static parameters to each "shape" extended class and verifies the class outputs the new parameters  by comparing it to a static string of SVG code containing matching parameters.
 
 In terminal, navigate to the "lib" directory containing the "shapes.test.js" file and run command ```npx jest```. 
 
