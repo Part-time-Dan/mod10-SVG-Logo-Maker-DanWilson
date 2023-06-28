@@ -54,4 +54,5 @@ For additional license information, please follow the link: [MIT](https://choose
 
 ## Video
 
-Soon
+[Mod10-SVG-Generator-DanWilson.webm](https://github.com/Part-time-Dan/mod10-SVG-Logo-Maker-DanWilson/assets/126934952/da8b1682-808f-434f-a7a2-218c3a86e1c0)
+
