@@ -46,8 +46,7 @@ function init() {
     inquirer
     .prompt(questions)
     .then((answer) => {
-        console.log(generateSVG({...answer}));
-        return writeToFile("logo.SVG", generateSVG({...answer}))
+        return writeToFile("logo.svg", generateSVG({...answer}))
     })
 };
 
