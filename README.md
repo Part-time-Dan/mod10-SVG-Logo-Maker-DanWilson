@@ -25,7 +25,7 @@ When prompted for colors, the user may provide standard color keywords, or enter
 
 When prompted for a shape, use the arrow keys to select between the choices. Upon completing the questionnaire, the console should log "Generated logo.svg".
 
-From the current directory, navigate to "examples" folder to find the newly generated svg logo file. Open "logo.svg" in a browser of your choise
+From the current directory, navigate to "examples" folder to find the newly generated svg logo file. Open "logo.svg" in a browser of your choice.
 
 ## Contributions
 This is an educational project. No contributions are being accepted.
